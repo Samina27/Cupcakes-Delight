@@ -1,2 +1,2 @@
 # Cupcakes-Delight
-A place where you can but or customize your own cupcakes
+An E-commerce web application where you can buy pre-made or customized cupcakes
